@@ -1,4 +1,3 @@
-Write-Host "E-TWEAKS optimize script started"
-Start-Sleep -Seconds 2
-Write-Host "Optimization complete"
+Write-Host "E-TWEAKS TEST OK"
+Write-Host "Le script cloud fonctionne."
 Pause
